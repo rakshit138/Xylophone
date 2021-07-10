@@ -1,4 +1,9 @@
+## Udemy-flutter bootcamp
 # xylophone
+
+-adding sound
+-making functions
+-cleaning code(making it look better)
 
 A new Flutter project.
 
